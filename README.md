@@ -1,1 +1,1 @@
-# Projekt Data Science
+krótki opis projektu
