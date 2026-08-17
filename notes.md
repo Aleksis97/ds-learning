@@ -1,4 +1,2 @@
+zmiana od kolegi
 
-testy
-
-Checking
