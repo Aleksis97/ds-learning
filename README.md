@@ -1,1 +1,1 @@
-krótki opis projektu
+Moje pierwsze notatki z Data Science
